@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/webpack-config/static/css/main.073c9b0a.css",
+    "main.js": "/webpack-config/static/js/main.f43ef561.js",
+    "static/js/787.bc7d429a.chunk.js": "/webpack-config/static/js/787.bc7d429a.chunk.js",
+    "static/media/logo.svg": "/webpack-config/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/webpack-config/index.html",
+    "main.073c9b0a.css.map": "/webpack-config/static/css/main.073c9b0a.css.map",
+    "main.f43ef561.js.map": "/webpack-config/static/js/main.f43ef561.js.map",
+    "787.bc7d429a.chunk.js.map": "/webpack-config/static/js/787.bc7d429a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f43ef561.js"
+  ]
+}
